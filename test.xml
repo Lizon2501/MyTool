@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2.8西区荷茶的巡山员到比亚迪二期变电站</folder>
+	<filename>2017-2-8比亚迪变电站山火 (3).jpg</filename>
+	<path>D:\2017森林消防出警照片\2.8西区荷茶的巡山员到比亚迪二期变电站\2017-2-8比亚迪变电站山火 (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>656</ymin>
+			<xmax>60</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>611</ymin>
+			<xmax>136</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>605</ymin>
+			<xmax>130</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>
